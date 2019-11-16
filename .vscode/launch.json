@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sprint3Application",
+            "request": "launch",
+            "mainClass": "edu.cst438.sprint3.Sprint3Application",
+            "projectName": "sprint3"
+        }
+    ]
+}

@@ -4,6 +4,7 @@ import javax.persistence.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 import io.swagger.annotations.ApiModelProperty;
+
 @Document(collection = "Product")
 public class Product {
     @Id

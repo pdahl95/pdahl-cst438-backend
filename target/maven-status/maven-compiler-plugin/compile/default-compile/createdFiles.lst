@@ -1,5 +1,4 @@
 edu/cst438/sprint3/repositories/ProductRepository.class
-edu/cst438/sprint3/service/ProductService.class
 edu/cst438/sprint3/Sprint3Application.class
 edu/cst438/sprint3/controller/ProductController.class
 edu/cst438/sprint3/swagger/SwaggerConfig.class
