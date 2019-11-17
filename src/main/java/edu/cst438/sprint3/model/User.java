@@ -1,8 +1,5 @@
 package edu.cst438.sprint3.model;
 import edu.cst438.sprint3.model.Cart;
-
-import java.util.UUID;
-
 import javax.persistence.Id;
 
 import org.springframework.data.mongodb.core.mapping.Document;
@@ -21,11 +18,12 @@ public class User {
         this.id = id;
         this.email = email;
         this.password = password;
-        this.shoppingcart = new Cart(UUID.randomUUID().toString());
     }
 
-
 	public Cart getShoppingcart() {
+        if(this.shoppingcart == null){
+            this.shoppingcart = new Cart();
+        }
         return shoppingcart;
     }
 

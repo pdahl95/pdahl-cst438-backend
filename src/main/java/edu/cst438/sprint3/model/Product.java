@@ -10,7 +10,6 @@ public class Product {
     @Id
     @ApiModelProperty(required = false, hidden = true)
     private String id;
-
     private String name;
     private String description;
     private String imageURL;
@@ -25,6 +24,7 @@ public class Product {
         this.setPrice(price);
         this.setStock(stock);
     }
+    public Product(){}
 
     public Integer getStock() {
         return stock;

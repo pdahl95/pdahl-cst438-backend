@@ -1,6 +1,12 @@
 /Users/pernilledahl/Desktop/sprint3/src/main/java/edu/cst438/sprint3/swagger/SwaggerConfig.java
+/Users/pernilledahl/Desktop/sprint3/src/main/java/edu/cst438/sprint3/utils/BadRequestException.java
 /Users/pernilledahl/Desktop/sprint3/src/main/java/edu/cst438/sprint3/controller/ProductController.java
+/Users/pernilledahl/Desktop/sprint3/src/main/java/edu/cst438/sprint3/model/User.java
+/Users/pernilledahl/Desktop/sprint3/src/main/java/edu/cst438/sprint3/repositories/UserRepository.java
+/Users/pernilledahl/Desktop/sprint3/src/main/java/edu/cst438/sprint3/controller/UserController.java
+/Users/pernilledahl/Desktop/sprint3/src/main/java/edu/cst438/sprint3/model/Cart.java
 /Users/pernilledahl/Desktop/sprint3/src/main/java/edu/cst438/sprint3/Sprint3Application.java
 /Users/pernilledahl/Desktop/sprint3/src/main/java/edu/cst438/sprint3/repositories/ProductRepository.java
 /Users/pernilledahl/Desktop/sprint3/src/main/java/edu/cst438/sprint3/model/Product.java
-/Users/pernilledahl/Desktop/sprint3/src/main/java/edu/cst438/sprint3/service/ProductService.java
+/Users/pernilledahl/Desktop/sprint3/src/main/java/edu/cst438/sprint3/controller/CartController.java
+/Users/pernilledahl/Desktop/sprint3/src/main/java/edu/cst438/sprint3/utils/ForbiddenException.java
